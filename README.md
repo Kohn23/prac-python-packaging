@@ -1,6 +1,6 @@
 # A Minimum (might not be) Python (Distribution) Package
 
-What can I say
+This repo is only for practice, no practical usage.
 
 ## Environtment
 
