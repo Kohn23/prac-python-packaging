@@ -1,0 +1,2 @@
+include src\pkg\*.json
+include src\CONTRIBUTING.rst

@@ -5,6 +5,8 @@ This repo is only for practice, no practical usage.
 ## Environtment
 
 - python 3.12
-- venv for Virtual Env
-- build
+- venv for Virtual Environment
 - edit (on cmd) as editor
+
+install package:
+1. build
