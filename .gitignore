@@ -1,3 +1,5 @@
 **hello_pyproject.egg-info/ 
+**mypkg.egg-info/
 dist/
 **__pycache__/
+
