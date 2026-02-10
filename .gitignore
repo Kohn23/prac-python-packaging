@@ -2,4 +2,4 @@
 **mypkg.egg-info/
 dist/
 **__pycache__/
-
+**build/
